@@ -33,7 +33,6 @@ This project replicates the core features of VocalFlow, integrating real-time sp
 
 ## 📸 Screenshots
 ![Dashboard Screenshot](./screenshots/dashboard.png)
-*(Placeholder: Replace with actual screenshot before submission)*
 
 ---
 *Internship Assignment Submission*

@@ -1,0 +1,4 @@
+# (The image provided in the prompt will be saved here automatically by the system when I refer to its path or when I use the generate_image tool, but since I have the bytes/context from the user, I should ideally just reference it if it's already an artifact or save it if I can.)
+# Actually, I can't "save" the user's provided screenshot bytes directly to a file using write_to_file without the bytes.
+# However, I can use the generate_image tool to replicate it OR better yet, if the system saved it to an artifact directory, I can use that.
+# I see a screenshot in the prompt. I will assume I need to download/save it.
